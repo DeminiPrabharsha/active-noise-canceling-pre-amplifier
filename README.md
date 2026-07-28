@@ -56,7 +56,7 @@ All stages were first validated in LTspice simulation, then implemented and test
 
 **Group 09 – EN2111, University of Moratuwa**
 
-- H.W.D. Prabarshana (230495B) — Breadboard Implementation, Testing, Documentation
+- H.W.D. Prabarsha (230495B) — Breadboard Implementation, Testing, Documentation
 - H.D.J.D. Samaranayaka (230563H) — Simulation Design, Testing, Documentation
 - W.M.H. Wanigasundara (230680M) — Breadboard Implementation, Testing, Documentation
 - A.H.T.M. Weerakoon (230689A) — Simulation Design, Testing, Documentation
