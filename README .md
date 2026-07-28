@@ -51,24 +51,6 @@ All stages were first validated in LTspice simulation, then implemented and test
 - Fully analog approach avoids the cost, latency, and power draw of DSP-based solutions
 - Designed and validated as a low-cost, hardware-only alternative to commercial ANC systems
 
-## 📁 Repository Structure
-
-```
-.
-├── README.md
-├── EDP_Project_Report.pdf         # Full project report (derivations, simulations, evaluation)
-├── presentation/
-│   └── ECD_presentation.pptx      # Project presentation slides
-├── Circuit_and_pcb_design/
-│   └── ...                        # LTspice schematics, PCB design files
-├── final_product/
-│   └── ...                        # Breadboard prototype photos, final results
-└── images/
-    ├── system_architecture.png
-    ├── ltspice_schematic.png
-    ├── breadboard_prototype.jpg
-    └── oscilloscope_results.jpg
-```
 
 ## 👨‍🔬 Team Members
 
