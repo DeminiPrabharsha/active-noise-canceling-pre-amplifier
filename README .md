@@ -1,8 +1,8 @@
 # 🎙️ Active Noise Canceling Pre-Amplifier
 
-An analog electronic circuit designed to remove ambient background noise from live speech in public address systems, using a dual-microphone architecture, dynamic amplitude equalization, and active subtraction. Developed by **Group 09** at the University of Moratuwa.
+An analog electronic circuit designed to remove ambient background noise from live speech in public address systems, using a dual-microphone architecture, dynamic amplitude equalization, and active subtraction. 
 
-![Breadboard Prototype](images/breadboard_prototype.jpg) ![Oscilloscope Results](images/oscilloscope_results.jpg)
+![Breadboard Prototype](images/1.png) ![Oscilloscope Results](images/2.jpeg)
 
 ## 📌 Overview
 
